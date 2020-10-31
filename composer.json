@@ -1,5 +1,5 @@
 {
-    "name": "becker/laravel-zabbix-api",
+    "name": "davigs/laravel-zabbix-api",
     "description": "This package provides a Zabbix API library for Laravel Framework",
     "type": "library",
     "keywords": [
@@ -9,8 +9,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Vinicius Becker",
-            "email": "vinicius@becker.eti.br"
+            "name": "Davi Gomes",
+            "email": "davigomess@gmail.com"
         }
     ],
     "require": {},
